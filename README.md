@@ -1,1 +1,1 @@
-# WADay4
+Write in Terminal of the IDE: "node HelloWorld.js" to start the program!
